@@ -17,21 +17,6 @@ t this point you should start to see current States values being populated.  If 
 
 If everything is working you can select the following attributes for a dashboard item.
 
-Solar_power	 	= 	Most recent power reading from MTU2
-Solar_today 		=	Cumulative power since midnight from  MTU2
-Solar_peak		=	The highest power reading since midnight from MTU2
-Solar_saving_MTD	=	Cumulative cost since beginning of billing cycle from MTU2
-Solar_saving_TDY	=	Cumulative cost since midnight from MTU2
-Solar_power_average	=	Average daily power generate this billing cycle from MTU2
-Solar_power_factor	=	Power Factor calculated from MTU2
-Net_power		=	Net power usage MTU1 – MTU2 
-Adjusted_load		=	Total power used on MTU1 
-Voltage		=	Most recent voltage reading
-cost_today		=	Total Cumulative cost since midnight
-daily_max_power	=	Peak max power since midnight
-daily_min_power	=	Minimum power reading since midnight
-power_factor		=	power factor calculated on MTU1
-
-Using the LiveData.xml file from your TED5000 as a guide add state variables and attributes or  rename the existing state and attributes as needed to fit your configuration.
+Using the LiveData.xml file from your TED5000 as a guide add state variables and attributes or rename the existing state variables and attributes as needed to fit your configuration.
 
 
