@@ -21,7 +21,8 @@ If everything is working you can select the following attributes for a dashboard
 Solar_power	 	= 	Most recent power reading from MTU2
 Solar_today 		=	Cumulative power since midnight from  MTU2
 Solar_peak		=	The highest power reading since midnight from MTU2
-Solar_saving_MTD	=	Cumulative cost since beginning of billing cycle from MTU2 Solar_saving_TDY	=	Cumulative cost since midnight from MTU2
+Solar_saving_MTD	=	Cumulative cost since beginning of billing cycle from MTU2 
+Solar_saving_TDY	=	Cumulative cost since midnight from MTU2
 Solar_power_average	=	Average daily power generate this billing cycle from MTU2
 Solar_power_factor	=	Power Factor calculated from MTU2
 Net_power		=	Net power usage MTU1 – MTU2 
